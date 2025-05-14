@@ -19,7 +19,8 @@
             display: block;
             background-color: darkred;
             color: white;
-            padding: 20px;
+            padding: 20px 50px;
+            margin-top: -5px;
             text-align: center;
             font-weight: bolder;
             text-decoration: none;
